@@ -1,0 +1,3 @@
+- I am a developer
+- I love listening to music and playing videogames
+- I'm studying github, devops
