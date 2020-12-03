@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- I am a developer
+- I love listening to music and playing videogames
+- I'm studying github, devops
